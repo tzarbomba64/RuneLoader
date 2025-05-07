@@ -1,0 +1,4 @@
+run/ git;user
+  user download
+  if; true
+   then broadcast ON port/8022; "{user} Didn't follow the rules!"
